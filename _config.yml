@@ -54,8 +54,8 @@ footer-links:
   email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: https://github.com/Astlinga/ #https://github.com/<>
-  instagram: #https://instagram.com/<>
+  github: Astlinga #https://github.com/<>
+  instagram: astlinga #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
@@ -72,7 +72,7 @@ footer-text: Copyright (c) 2024 Astlinga
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: loffer #shortname
+disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
