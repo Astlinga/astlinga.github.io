@@ -7,5 +7,4 @@ categories:
 tags: [sample, document]
 comments: true
 --- 
-https://buy.stripe.com/4gw9E94T95XUc12dQR
-##想投喂星灵？
+[投喂星灵](https://buy.stripe.com/4gw9E94T95XUc12dQR)
