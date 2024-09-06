@@ -1,10 +1,12 @@
 ---
 layout: post
-title: LOFFER文档
+title: 星灵投喂
 date: 2024-09-07
-Author: 星灵投喂
+Author: 星灵
 categories: 
 tags: [sample, document]
 comments: true
 --- 
+##想投喂星灵？
+https://buy.stripe.com/4gw9E94T95XUc12dQR
 
