@@ -76,10 +76,10 @@ disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: Ov23lihfwHphqWefNRP2
+  clientSecret: bef5dfe20c1683b5b108a4a7cf1db58209039d81
+  repo: astlinga.github.io
+  owner: Astlinga
   proxy:
 
 # 输入Google Analytics web tracking code
